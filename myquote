@@ -1,0 +1,14 @@
+<!--
+  To add a quote, copy the div below and paste it at the bottom of the file.
+  Then populate it with your quote and attribution.
+  You can add an optional image tag. The image must be linked from an external
+  site and not be in the repository.
+<div class="quote">
+    <blockquote>Your quote goes here</blockquote>
+    <cite>Attribution</cite>
+</div>
+Please do not edit above this line -->
+<div class="quote">
+    <blockquote>very influential stuff</blockquote>
+    <cite>very important person</cite>
+</div>
