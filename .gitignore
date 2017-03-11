@@ -1,0 +1,11 @@
+bin/
+build/
+build_gcc/
+build_intel/
+data/
+img/
+lib/
+python/*.pyc
+python/colormap/*.pyc
+Debug/
+*.exec
